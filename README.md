@@ -1,29 +1,30 @@
 <h2 align="center">👋 Hi! I'm Rodrigo.</h2>
 a passionate Fullstack developer, with emphasys on backend applications.
 
-<img align="right" alt="GIF" src="static/coding.gif" width="500" height="320" />
-<br style="clear:both" />
+<img alt="GIF" src="static/coding.gif" width="500" height="320" />
+
+---
 
 - 🌎 [http://rodrigo.world](http://rodrigo.world)
 - 📫 How to reach me:
   - <a href="mailto:hello@rodrigo.world">hello@rodrigo.world</a>
   - [@\_whiletruedo](http://twitter.com/_whiletruedo)
 - 👨‍💼 Resume: [Linkedin](https://www.linkedin.com/in/rodrigocesarnascimento)
-- 🌱 I’m currently learning: Typescript, K8s and NestJS
-- 🤔 I’m looking for help with understand K8s tradeoffs in development cycle, and some good real examples.
+- 🌱 I’m currently learning: Typescript, K8s, MongoDB and NestJS
 - 💬 Ask me about anything, I am happy to help
 - 📊 This week I spent my time on:
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-  <br style="clear:both" />
 
-  👇 Hit in your terminal to know more about me.
+---
+
+👇 Hit in your terminal to know more about me.
 
 ```
 npx rodrigocnascimento
 ```
 
-<br style="clear:both" />
+---
 
 <div style="float: right">
 
