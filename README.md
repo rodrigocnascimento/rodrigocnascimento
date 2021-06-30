@@ -15,7 +15,8 @@ a passionate Fullstack developer, with emphasys on backend applications.
 - 📊 This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-TypeScript   5 mins          █████████████████████████   100.00 % 
+tmux         13 mins         ██████████████████░░░░░░░   72.17 % 
+TypeScript   5 mins          ███████░░░░░░░░░░░░░░░░░░   27.83 % 
 ```
 <!--END_SECTION:waka-->
 
