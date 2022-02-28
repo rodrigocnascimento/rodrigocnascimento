@@ -14,9 +14,11 @@ a passionate Fullstack developer, with emphasys on backend applications.
 - 💬 Ask me about anything, I am happy to help
 - 📊 This week I spent my time on:
   <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
