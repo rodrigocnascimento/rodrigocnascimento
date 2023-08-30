@@ -10,7 +10,7 @@ a passionate Fullstack developer, with emphasys on backend applications.
   - <a href="mailto:hello@rodrigo.world">hello@rodrigo.world</a>
   - [@\_whiletruedo](http://twitter.com/_whiletruedo)
 - 👨‍💼 Resume: [Linkedin](https://www.linkedin.com/in/rodrigocesarnascimento)
-- 🌱 I’m currently learning: Typescript, K8s, MongoDB and NestJS
+- 🌱 I’m currently learning: Typescript, OpenAI, Socket and NestJS
 - 💬 Ask me about anything, I am happy to help
 - 📊 This week I spent my time on:
   <!--START_SECTION:waka-->
