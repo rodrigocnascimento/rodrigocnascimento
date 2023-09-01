@@ -16,11 +16,11 @@ a passionate Fullstack developer, with emphasys on backend applications.
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       12 hrs 32 mins  ███████████████████▒░░░░░   77.21 %
-JSON             1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-JavaScript       1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Bash             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+TypeScript       12 hrs 46 mins  ████████████████████▒░░░░   81.28 %
+JSON             1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+JavaScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Bash             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
