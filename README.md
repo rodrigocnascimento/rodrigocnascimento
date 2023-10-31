@@ -16,10 +16,7 @@ a passionate Fullstack developer, with emphasys on backend applications.
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   47 mins         ██████████████████████░░░   87.42 %
-YAML         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Docker       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
