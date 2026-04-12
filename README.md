@@ -53,9 +53,9 @@ When I'm not coding, I'm usually exploring new tools, contributing to open sourc
 
 #### ⚙️ Languages
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -66,7 +66,6 @@ When I'm not coding, I'm usually exploring new tools, contributing to open sourc
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-009688?style=flat-square)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
 
 #### 🗄️ Data
 
@@ -77,7 +76,6 @@ When I'm not coding, I'm usually exploring new tools, contributing to open sourc
 #### 🚀 DevOps & Infra
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -122,7 +120,7 @@ npx rodrigocnascimento
 
 ---
 
-### `$ ping rodrigo.world`
+### `$ ping [rodrigo.is-a.dev](https://rodrigo.is-a.dev/)`
 
 <div align="center">
 
@@ -133,6 +131,15 @@ npx rodrigocnascimento
 [!["Let's connect"](https://img.shields.io/badge/Let's%20connect-rodrigo.world-2088FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rodrigo.world)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rodrigocnascimento/rodrigocnascimento/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rodrigocnascimento/rodrigocnascimento/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/rodrigocnascimento/rodrigocnascimento/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ```
 Built with 💚 + ☕ + infinite loops — somewhere in Belém, Brazil
